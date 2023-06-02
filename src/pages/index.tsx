@@ -22,6 +22,7 @@ export default function Home() {
         </Stack>
 
         <footer>
+          git
           <p>Styles作成</p>
         </footer>
       </main>
