@@ -20,9 +20,6 @@ export default function Home() {
         <Stack spacing={3}>
           <Input placeholder="medium size" size="md" />
         </Stack>
-        <div style={{ position: "relative", width: "100px", height: "100px" }}>
-          <Image src={imageNakajima} alt="身長が高すぎた中島" />
-        </div>
 
         <footer>
           <p>Styles作成</p>
